@@ -1,0 +1,231 @@
+body {
+    font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif; 
+    background-color: #888888;
+
+}
+
+a:link  { 
+    color:blue; text-decoration:none; 
+}
+a:visited { 
+    color:purple; text-decoration:none; 
+}
+a:hover { 
+    text-decoration:underline; 
+}
+a:active {  
+    color:blue; text-decoration:none; 
+}
+
+.main {
+    /* set width and auto margins to center */
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    background-color: #999999; /*  colored */
+/*    border:1px solid #021a40;  */
+}
+
+div.main {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+h1.main {
+    text-align: center;
+    font-family: inherit;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 40px;
+    color: #000000;
+
+}
+
+h3.main {
+    font-family: inherit;
+    font-weight: bold;
+    font-variant: small-caps;
+    /*font-size: 40px;*/
+    color: #000000;
+
+}
+
+div.main_text {
+    font-family:Calibri,sans-serif;
+    padding-left:30px;
+    padding-right: 30px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+div.quote {
+    font-style: italic;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+div.tlinfo {
+    font-family: inherit;
+    font-size: small;
+    padding-bottom: 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    border: 1px solid #777777;
+    background-color: #AAAAAA; /*  colored */
+}
+
+h2.tlinfo {
+    padding: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+table.tlinfo {
+    border: 1px solid black;
+}
+
+.caption {
+    font-family: inherit;
+    padding: 0px;
+    margin: 0px;
+}
+
+.div_with_image {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.div_with_video {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.main_img {
+    display: block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding:1px;
+    border:1px solid #021a40;
+}
+
+.main_img_inline {
+    display: inline;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding:1px;
+    border:1px solid #021a40;
+}
+.banner {
+    text-align: center;
+ /*   background-color: #ffff88;
+    -moz-border-radius: 10px;
+    border-radius: 10px; */
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.banner {
+   margin-top: 5px;
+   padding-bottom: 5px;
+}
+div.banner {
+    margin-bottom: 10px;
+
+}
+h1.banner {
+    font-family: inherit;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 40px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+h2.banner {
+    font-family: inherit;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+div.sidebox {
+    /* set width and auto margins to center */
+    display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    background-color: #999999; /*  colored */
+    border:1px solid #ffff88;
+    padding-right: 7px;
+    padding-left: 0px;
+}
+
+ul.sidebox {
+    text-align: left;
+    font-family: inherit;
+    font-size: 0.8em;
+    list-style-type:circle;
+    margin-top: 5px;
+    margin-left: 0px;
+    padding-left: 25px;
+}
+
+li.sidebox {
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+h3.sidebox {
+    text-align: center;
+    font-family: inherit;
+    font-size: 0.9em;
+}
+
+a.sidebox {
+    font-family: inherit;
+}
+div.leftlist {
+    display: inline;
+    float: left;
+}
+div.rightlist {
+    float: right;
+}
+.footer {
+    text-align: center;
+    background-color: #ffee77;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+p.thanks {
+    text-align: center;
+    font-family: inherit;
+}
