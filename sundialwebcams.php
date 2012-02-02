@@ -28,6 +28,10 @@ We are not the first to have the craziness to watch the shadow on a sundial move
 </p>
 
 
+<h3>New College, Oxford University, UK (active)</h3>
+
+Live video of the <a href="http://www.new.ox.ac.uk/sundial-camera">New College Sundial</a>, 1&deg; West of the Greenwich Meridian.
+
 <h3>University of Calgary, Canada  (sometimes active)</h3>
 
 A small, precise <a href="http://www.ucalgary.ca/rao/gnomon">horizontal sundial</a> is under a webcam at the Rothney Astrophysical Observatory, Dept. of Physics and Astronomy, University of Calgary. Live images are available <a href="http://136.159.57.151/netcam.jpg">here</a>. This is not a sundial in the usual sense since the horizontal surface is marked only with a 2-cm Cartesian grid, designed for students to measure (x, y)'s and do some calculations!
@@ -94,10 +98,7 @@ Time-lapse
 <br>
 <br>
 
-<h3>New College, Oxford University, UK</h3>
 
-Live video of the <a href="http://www.new.ox.ac.uk/sundial-camera">College Sundial</a>, 1&deg; West of the Greenwich Meridian.
-</div>
 </div>
 <div id="div_footer" class="footer">
 <div>
