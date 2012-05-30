@@ -108,11 +108,8 @@ As the sun moves daily from east to west, the gnomon's shadow follows a path fro
 
 </div>
 
-<div id="div_footer" class="footer">
-<div>
-    <a href="mailto:imsmith@uw.edu">Ian Smith</a> and <a href="mailto:woody@astro.washington.edu">Woody Sullivan</a>, Last revision: Nov 2011
-</div>
-</div>
+<!-- footer -->
+<?php require("includes/footer.php"); ?>
 
 </body>
 

@@ -50,11 +50,9 @@ The initial idea for the dial came about through conversations between the archi
 The dial is unique in that its design in fact incorporates two dial planes. The shadow of the tube should be read on the brick wall, but the shadow of the ball is designed to be read on top of the metal surfaces (about 2-3 inches (5-7 cm) from the wall). The dial also has an interesting feature to protect the gnomon from oscillations that might be set up by high winds. The tube and the ball (see photos of Larry (below) and Woody installing) are each half-filled with mineral oil to dampen out any oscillations that might get started. (The chance of this is small, but real - remember that the famous Tacoma Narrows Bridge disaster in 1940 happened close to here!). Another hidden aspect of the dial concerns the sets of holes in the hour lines - they allow one to read the number of hours of daylight on the day of viewing (varying between 16 and 8 hours at our latitude).</p>
 	    <img class="main_img" src="images/sundialoil.jpg" width="480" alt="Adding mineral oil to the ball" />
 </div></div>
-<div id="div_footer" class="footer">
-<div>
-    <a href="mailto:imsmith@uw.edu">Ian Smith</a> and <a href="mailto:woody@astro.washington.edu">Woody Sullivan</a>, Last revision: Nov 2011
-</div>
-</div>
+
+<!-- footer -->
+<?php require("includes/footer.php"); ?>
 
 </body>
 </html>

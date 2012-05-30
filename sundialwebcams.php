@@ -100,12 +100,9 @@ Time-lapse
 
 
 </div>
-<div id="div_footer" class="footer">
-<div>
-    <a href="mailto:imsmith@uw.edu">Ian Smith</a> and <a href="mailto:woody@astro.washington.edu">Woody Sullivan</a>, Last revision: Nov 2011
-</div>
-</div>
 
+<!-- footer -->
+<?php require("includes/footer.php"); ?>
 
 </body>
 </html>
