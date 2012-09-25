@@ -19,7 +19,8 @@ a:active {
 
 .main {
     /* set width and auto margins to center */
-    width: 700px;
+    /*width: 700px;*/
+    width: 60%;
     margin-left: auto;
     margin-right: auto;
     -moz-border-radius: 10px;

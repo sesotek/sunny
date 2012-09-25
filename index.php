@@ -67,7 +67,9 @@ if(document.images) window.onload=refreshAll;
 <div id="div_main" class="main">
 
 	<div id="div_croppedDial" class="div_with_image">
-	    <img class="main_img" src="images/last_dial.jpg" id="img_croppedDial" alt="Sundial" />
+    <a href="images/last_frame.jpg" id="a_fullres" target="_blank">
+	    <img class="main_img" src="images/last_dial.jpg" width="100%" id="img_croppedDial" alt="UW Astronomy Sundial" />
+    </a>
 	</div>
 
 <div id="sundialinfo" class="main_text">
@@ -100,11 +102,6 @@ As the sun moves daily from east to west, the gnomon's shadow follows a path fro
 </p>
 </div>
     
-    <div id="div_wideDial" class="div_with_image">
-        <p class="caption">Live wide-angle view of the Physics/Astronomy Buildings, with the dial near center.</p>
-	    <img class="main_img" src="images/last_frame.jpg" width="640px" id="img_wideDial" alt="UW Astromomy Sundial" />
-	</div>
-	<a href="images/last_fullres.jpg" id="a_fullres" target="_blank">Link to full res version</a>
 
 </div>
 
