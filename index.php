@@ -72,7 +72,7 @@ if(document.images) window.onload=refreshAll;
 
 <div id="sundialinfo" class="main_text">
 <p>
-SundialCam brings you a live view, updated once per minute, of a large wall sundial in Seattle, sundial capital of North America. If you blow up the image, your eye can even detect the slight shift from one minute to the next! We apologize if the sun isn't shining because of either clouds or nighttime; in such a case watch our time lapse movies and explore our website. We will be improving our images, adding time lapses, and upgrading the website as time goes on, so check back again. Feedback is appreciated - see the bottom of this page.
+SundialCam brings you a live view, updated once per minute during daylight hours, of a large wall sundial in Seattle, sundial capital of North America. If you blow up the image, your eye can even detect the slight shift from one minute to the next! We apologize if the sun isn't shining because of either clouds or nighttime; in such a case watch our time lapse movies and explore our website. We will be improving our images, adding time lapses, and upgrading the website as time goes on, so check back again. Feedback is appreciated - see the bottom of this page.
 </p>
 <p>
 Latitude 47&deg; 39' 10.0" N <br>
