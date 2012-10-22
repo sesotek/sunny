@@ -54,7 +54,7 @@ There are many other ways sundials affect us. We can admire them for their beaut
 My muse when designing sundials, pictured below, is from the frontispiece of a 1643 French book on dialling. I call her 'Mademoiselle Gnomonique' and she's still inspiring after more than 350 years.
 </p>
 
-	    <a href="images/Mlle_Gnomonique.jpg"><img class="main_img" src="images/Mlle_Gnomonique" width="400" alt="Mlle Gnomonique"/></a>
+	    <a href="images/Mlle_Gnomonique.jpg"><img class="main_img" src="images/Mlle_Gnomonique.jpg" width="400" alt="Mlle Gnomonique"/></a>
 
 <p>
 [The book is by Abraham Bosse and is entitled <i>La maniere universelle de M. Desargues pour poser l'essieu et placer les heures et autres choses, aux cadrans au soleil</i> [The universal method of Monsieur Desargues to position the gnomon and draw the hours and other things for sundials]

@@ -11,45 +11,14 @@
 <body>
 <script type="text/javascript">
 <!--
-function showHide(shID) {
-   if (document.getElementById(shID)) {
-      if (document.getElementById(shID).style.display != 'none') {
-         document.getElementById(shID).style.display = 'none';
-         document.getElementById(shID).style.display = 'block';
-      }
-      else {
-         document.getElementById(shID).style.display = 'inline';
-         document.getElementById(shID).style.display = 'none';
-      }
-   }
-}
-
 function refreshAll() {
     refreshImgs();
-//    refreshCurrentTime();
 }
 
 function refreshImgs(){
     var uniqueNum = new Date().getTime();
-    document.images["img_wideDial"].src="images/last_frame.jpg"+"?"+uniqueNum;
     document.images["img_croppedDial"].src="images/last_dial.jpg"+"?"+uniqueNum;
-    document.getElementById('a_fullres').href="images/last_fullres.jpg"+"?"+uniqueNum;
     setTimeout('refreshImgs()', 30000);
-}
-
-function refreshCurrentTime() {
-    var timeStr = "";
-    var now = new Date();
-    
-    timeStr += ((now.getHours() > 0 && now.getHours() < 13)) ? now.getHours() : (now.getHours() == 0) ? 12 : now.getHours()-12;
-    timeStr += (now.getMinutes() > 9) ? ":" + now.getMinutes() : ":0" + now.getMinutes();
-    timeStr += (now.getSeconds() > 9) ? ":" + now.getSeconds() : ":0" + now.getSeconds();
-    timeStr += (now.getHours() < 12) ? " am" : " pm";
-    alert(timeStr);                                   
-    clockSpan = document.getElementById("clockCurrentTime");
-    clockSpan.replaceChild(document.createTextNode(timeStr), clockSpan.firstChild);         
-                                                                   
-    setTimeout("refreshCurrentTime()",1000); 
 }
 
 if(document.images) window.onload=refreshAll;
@@ -67,7 +36,7 @@ if(document.images) window.onload=refreshAll;
 <div id="div_main" class="main">
 
 	<div id="div_croppedDial" class="div_with_image">
-    <a href="images/last_frame.jpg" id="a_fullres" target="_blank">
+    <a href="images/last_frame.jpg" target="_blank">
 	    <img class="main_img" src="images/last_dial.jpg" width="100%" id="img_croppedDial" alt="UW Astronomy Sundial" />
     </a>
 	</div>
