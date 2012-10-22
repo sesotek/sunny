@@ -52,7 +52,7 @@ Because we set up our camera in an active biology research lab, we faced the str
 </p>
 
 
-        <img class="main_img" src="images/map_directions" width="550" alt="Campus map" />
+        <img class="main_img" src="images/map_directions.png" width="550" alt="Campus map" />
 
 
 <p>
